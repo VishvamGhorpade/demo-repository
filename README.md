@@ -7,3 +7,7 @@ hehehe
 
  something.
  anythig.
+
+## Local Development
+
+1. open index.html
